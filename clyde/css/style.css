@@ -63,13 +63,34 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   margin-top: 20px;
 }
 
+.arpit-education h4{
+  color: blue;
+}
+
+.arpit-education p{
+  /* color: black; */
+}
+
+.arpit-button{
+  background-color: yellow;
+  /* margin:0px; */
+  /* border-color: yellow; */
+  border-width: 0px;
+  border-radius: 20px;
+  height: 50px;
+  /* width: 100px; */
+  text-align: center;
+}
+
 /* .arpit-images{
   align-items: center;
   margin-left: 30%;
   margin-left: 30%;
 } */
 
-
+.arpit-por{
+  border-width: 2px;
+}
 
 
 body {
